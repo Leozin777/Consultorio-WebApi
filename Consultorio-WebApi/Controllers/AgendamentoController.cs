@@ -35,6 +35,8 @@ namespace Consultorio.Controllers
             else
                 return BadRequest("não existe");
         }
+
+       
     }
 }
 
